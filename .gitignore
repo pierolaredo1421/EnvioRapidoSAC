@@ -1,0 +1,15 @@
+.idea/
+cmake-build-debug/
+cmake-build-release/
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+build/
+dist/
+.DS_Store
+.gradle/
+*.iml
+out/
